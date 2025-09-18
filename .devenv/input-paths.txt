@@ -1,0 +1,7 @@
+/home/ledesmx/projects/wf-privacy-policy/.devenv/flake.json
+/home/ledesmx/projects/wf-privacy-policy/.devenv.flake.nix
+/home/ledesmx/projects/wf-privacy-policy/.env
+/home/ledesmx/projects/wf-privacy-policy/devenv.local.nix
+/home/ledesmx/projects/wf-privacy-policy/devenv.lock
+/home/ledesmx/projects/wf-privacy-policy/devenv.nix
+/home/ledesmx/projects/wf-privacy-policy/devenv.yaml
